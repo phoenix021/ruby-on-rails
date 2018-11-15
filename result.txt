@@ -1,0 +1,78 @@
+Updating installed gems
+Updating activerecord-sqlserver-adapter
+Successfully installed activesupport-5.1.6
+Successfully installed activemodel-5.1.6
+Successfully installed arel-8.0.0
+Successfully installed activerecord-5.1.6
+Successfully installed activerecord-sqlserver-adapter-5.1.6
+Parsing documentation for activesupport-5.1.6
+Installing ri documentation for activesupport-5.1.6
+Installing darkfish documentation for activesupport-5.1.6
+Parsing documentation for activemodel-5.1.6
+Installing ri documentation for activemodel-5.1.6
+Installing darkfish documentation for activemodel-5.1.6
+Parsing documentation for arel-8.0.0
+Installing ri documentation for arel-8.0.0
+Installing darkfish documentation for arel-8.0.0
+Parsing documentation for activerecord-5.1.6
+Installing ri documentation for activerecord-5.1.6
+Installing darkfish documentation for activerecord-5.1.6
+Parsing documentation for activerecord-sqlserver-adapter-5.1.6
+Installing ri documentation for activerecord-sqlserver-adapter-5.1.6
+Installing darkfish documentation for activerecord-sqlserver-adapter-5.1.6
+Done installing documentation for activesupport, activemodel, arel, activerecord, activerecord-sqlserver-adapter after 100 seconds
+Parsing documentation for activemodel-5.1.6
+Parsing documentation for activerecord-5.1.6
+Parsing documentation for activerecord-sqlserver-adapter-5.1.6
+Parsing documentation for activesupport-5.1.6
+Parsing documentation for arel-8.0.0
+Done installing documentation for activemodel, activerecord, activerecord-sqlserver-adapter, activesupport, arel after 41 seconds
+Updating bigdecimal
+Temporarily enhancing PATH to include DevKit...
+Building native extensions.  This could take a while...
+Successfully installed bigdecimal-1.3.5
+Parsing documentation for bigdecimal-1.3.5
+Installing ri documentation for bigdecimal-1.3.5
+Installing darkfish documentation for bigdecimal-1.3.5
+Done installing documentation for bigdecimal after 3 seconds
+Parsing documentation for bigdecimal-1.3.5
+Done installing documentation for bigdecimal after 2 seconds
+Updating did_you_mean
+Updating io-console
+Building native extensions.  This could take a while...
+Successfully installed io-console-0.4.6
+Parsing documentation for io-console-0.4.6
+Installing ri documentation for io-console-0.4.6
+Installing darkfish documentation for io-console-0.4.6
+Done installing documentation for io-console after 0 seconds
+Parsing documentation for io-console-0.4.6
+Done installing documentation for io-console after 0 seconds
+Updating jquery-rails
+Successfully installed jquery-rails-4.3.3
+Parsing documentation for jquery-rails-4.3.3
+Installing ri documentation for jquery-rails-4.3.3
+Installing darkfish documentation for jquery-rails-4.3.3
+Done installing documentation for jquery-rails after 0 seconds
+Parsing documentation for jquery-rails-4.3.3
+Done installing documentation for jquery-rails after 0 seconds
+Updating json
+Building native extensions.  This could take a while...
+Successfully installed json-2.1.0
+Parsing documentation for json-2.1.0
+Installing ri documentation for json-2.1.0
+Installing darkfish documentation for json-2.1.0
+Done installing documentation for json after 7 seconds
+Parsing documentation for json-2.1.0
+Done installing documentation for json after 2 seconds
+Updating net-telnet
+Successfully installed net-telnet-0.2.0
+Parsing documentation for net-telnet-0.2.0
+Installing ri documentation for net-telnet-0.2.0
+Installing darkfish documentation for net-telnet-0.2.0
+Done installing documentation for net-telnet after 1 seconds
+Parsing documentation for net-telnet-0.2.0
+Done installing documentation for net-telnet after 0 seconds
+Updating pg
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
+
+C:\Sites\projects\railsgirls>
